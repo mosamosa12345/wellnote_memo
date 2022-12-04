@@ -3,10 +3,11 @@
 
 ## インストールしておくもの
 - google chrome
--- https://www.google.com/intl/ja_jp/chrome/
--- または https://portableapps.com/apps/internet/google_chrome_portable (ポータブル版)
+ - https://www.google.com/intl/ja_jp/chrome/
+ - または https://portableapps.com/apps/internet/google_chrome_portable (ポータブル版)
 - python
--- https://www.python.org/downloads/
+ - https://www.python.org/downloads/
+
 
 ## 手順
 
@@ -25,6 +26,7 @@ chrome で wellnote を開く
 スクロールが止まったら、[save_json] ボタンをクリック
 
 "wellnote_log.json" というファイルがダウンロードされる
+
 
 ### python での作業
 "wellnote_log.json" を以下のファイルと同じフォルダに置く
