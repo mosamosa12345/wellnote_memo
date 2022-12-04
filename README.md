@@ -3,8 +3,8 @@
 
 ## インストールしておくもの
 - google chrome
-    - https://www.google.com/intl/ja_jp/chrome/
-    - または https://portableapps.com/apps/internet/google_chrome_portable (ポータブル版)
+    > https://www.google.com/intl/ja_jp/chrome/
+    > または https://portableapps.com/apps/internet/google_chrome_portable (ポータブル版)
 - python
     - https://www.python.org/downloads/
 
@@ -18,12 +18,12 @@ chrome にて、tampermonkey の導入
 tampermonkey に js を入れる
 - wellnote.js
 
-chrome で wellnote を開く
+chrome で wellnote を開くと、右上に [get_json] [save_json] ボタンが表示されている
 - https://wellnote.jp/
 
-[get_json] ボタンをクリック
+[get_json] ボタンをクリックすると、データの読み込みが始まる
 
-スクロールが止まったら、[save_json] ボタンをクリック
+スクロールが止まり、データ読み込みが終了したら、[save_json] ボタンをクリックして、データを保存する
 
 "wellnote_log.json" というファイルがダウンロードされる
 
