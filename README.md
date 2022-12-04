@@ -32,10 +32,8 @@ chrome で wellnote を開く
 "wellnote_log.json" を以下のファイルと同じフォルダに置く
 - wellnote.py
 
-コマンドプロンプトを開く
-
-以下のコマンドを打ち込む
+コマンドプロンプトを開き、以下のコマンドを打ち込む
 - py wellnote.py
 
-完了！
+### 完了！
 
