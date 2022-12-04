@@ -2,13 +2,14 @@
 # wellnote_memo
 
 ## インストールしておくもの
-- google chrome
-    - https://www.google.com/intl/ja_jp/chrome/
-    - または https://portableapps.com/apps/internet/google_chrome_portable (ポータブル版)
-- python
-    - https://www.python.org/downloads/
+google chrome
+- https://www.google.com/intl/ja_jp/chrome/
+- または https://portableapps.com/apps/internet/google_chrome_portable (ポータブル版)
+python
+- https://www.python.org/downloads/
 
 <br>
+
 ## 機能
 
 実装済み
