@@ -17,7 +17,7 @@ chrome にて、tampermonkey の導入
 - https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo
 
 tampermonkey に js を入れる
-- wellnote.js
+- [wellnote.js](https://github.com/mosamosa12345/wellnote_memo/blob/main/wellnote.js)
 
 chrome で wellnote を開くと、右上に [get_json] [save_json] ボタンが表示されている
 - https://wellnote.jp/
@@ -32,7 +32,7 @@ chrome で wellnote を開くと、右上に [get_json] [save_json] ボタンが
 
 ### python での作業
 "wellnote_log.json" を以下のファイルと同じフォルダに置く
-- wellnote.py
+- [wellnote.py](https://github.com/mosamosa12345/wellnote_memo/blob/main/wellnote.py)
 
 コマンドプロンプトを開き、以下のコマンドを打ち込む
 - py wellnote.py
