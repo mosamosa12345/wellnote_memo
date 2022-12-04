@@ -41,3 +41,6 @@ chrome で wellnote を開くと、右上に [get_json] [save_json] ボタンが
 
 ### 完了！
 
+データが正常か、見て確かめる
+
+
