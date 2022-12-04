@@ -1,28 +1,33 @@
 
 # wellnote_memo
 
-install
+インストールしておくもの
 - google chrome
+-- https://www.google.com/intl/ja_jp/chrome/
+-- または https://portableapps.com/apps/internet/google_chrome_portable (ポータブル版)
 - python
+-- https://www.python.org/downloads/
 
-install tampermonkey
+chrome にて、tampermonkey の導入
 - https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo
 
-install js from here.
+tampermonkey に js を入れる
 - wellnote.js
 
 open in your chrome browser & login.
 - https://wellnote.jp/
 
-click [get_json] button.
+[get_json] ボタンをクリック
 
-scroll stop. then, click [save_json] button
+スクロールが止まったら、[save_json] ボタンをクリック
 
-download "wellnote_log.json"
+"wellnote_log.json" というファイルがダウンロードされているので
+wellnote.py と同じフォルダに移動する
 
-open cmd
+コマンドプロンプトを開く
 
+以下のコマンドを打ち込む
 py wellnote.py
 
-all done !!
+完了！
 
