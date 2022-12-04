@@ -8,6 +8,7 @@
 - python
     - https://www.python.org/downloads/
 
+<br>
 
 ## 手順
 
@@ -27,6 +28,7 @@ chrome で wellnote を開くと、右上に [get_json] [save_json] ボタンが
 
 "wellnote_log.json" というファイルがダウンロードされる
 
+<br>
 
 ### python での作業
 "wellnote_log.json" を以下のファイルと同じフォルダに置く
@@ -35,6 +37,7 @@ chrome で wellnote を開くと、右上に [get_json] [save_json] ボタンが
 コマンドプロンプトを開き、以下のコマンドを打ち込む
 - py wellnote.py
 
+<br>
 
 ### 完了！
 
