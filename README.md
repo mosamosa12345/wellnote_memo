@@ -1,6 +1,8 @@
 
 # wellnote_memo
 
+~~
+
 ## インストールしておくもの
 
 google chrome
@@ -60,4 +62,4 @@ chrome で wellnote を開くと、右上に [get_json] [save_json] ボタンが
 
 保存できたデータが正常か、確認する
 
-
+~~
